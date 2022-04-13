@@ -7,7 +7,7 @@
     color: #182025
 }
 .background-image {
-    background-image: url(/images/background.jpg);
+    background-image: url(images/background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     position: fixed;
